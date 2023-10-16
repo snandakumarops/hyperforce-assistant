@@ -1,0 +1,17 @@
+{
+  "serverMaxRevisionCounter": 3,
+  "sourceMembers": {
+    "Profile__Admin": {
+      "serverRevisionCounter": 3,
+      "lastRetrievedFromServer": 3,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "ApexClass__HAHarcodedURLCheck": {
+      "serverRevisionCounter": 2,
+      "lastRetrievedFromServer": 2,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    }
+  }
+}
